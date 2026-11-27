@@ -1,0 +1,27 @@
+[
+  {
+    "path": "vendor/sms/sms.py",
+    "url": "https://github.com/showlab/SMS/blob/main/sms.py",
+    "git_blob": "76815185f7d097eebbb38c46f72682d87a87b7ad"
+  },
+  {
+    "path": "vendor/sms/dct_util.py",
+    "url": "https://github.com/showlab/SMS/blob/main/dct_util.py",
+    "git_blob": "5e4cadb4f2e742041acf4c2ccc4e9d91f8ba2b0d"
+  },
+  {
+    "path": "vendor/sms/LICENSE",
+    "url": "https://github.com/showlab/SMS/blob/main/LICENSE",
+    "git_blob": "52e8b78e8c028656180f3f392a09eeae4fddeb08"
+  },
+  {
+    "path": "vendor/diffusers/train_text_to_image_lora.py",
+    "url": "https://github.com/huggingface/diffusers/blob/v0.30.0/examples/text_to_image/train_text_to_image_lora.py",
+    "git_blob": "1c77792ddc7747696a5ef8ce2a269ee54fe9076e"
+  },
+  {
+    "path": "vendor/diffusers/LICENSE",
+    "url": "https://github.com/huggingface/diffusers/blob/v0.30.0/LICENSE",
+    "git_blob": "261eeb9e9f8b2b4b0d119366dda99c6fd7d35c64"
+  }
+]
